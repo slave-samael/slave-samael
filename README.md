@@ -26,7 +26,7 @@ No solo escribo código; diseño soluciones. Me especializo en el desarrollo de 
 | Proyecto | Descripción y Arquitectura | Estado |
 | :--- | :--- | :--- |
 | **🚀 KronoSync-ERP** | **La evolución.** ERP web con estructura optimizada. Backend en Django (MVT) y base de datos gestionada en **Neon Tech**. | `Development / Soon to Prod` |
-| **📦 Core-ERP** | Sistema de gestión de recursos con lógica de negocio compleja, enfocado en la estabilidad de procesos locales. | `Funcional (Local)` |
+| **📦 Core-ERP** | Sistema de gestión de recursos con lógica de negocio compleja (MVC), enfocado en la estabilidad de procesos locales. | `Funcional (Local)` |
 | **🎫 ServiceDesk** | Plataforma de ticketing para soporte técnico. Aplicación de flujos de trabajo y seguimiento de incidencias. | `Desarrollo Activo` |
 | **🤖 IA Agent Base** | Configuración y restricción de agentes inteligentes. Definición de comportamientos y seguridad de modelos. | `Implementado` |
 
@@ -42,5 +42,4 @@ No solo escribo código; diseño soluciones. Me especializo en el desarrollo de 
 ¿Tienes un reto técnico o un proyecto en mente? ¡Hablemos!
 
 * **LinkedIn:** [https://www.linkedin.com/in/jose-carlos-cornejo-zamora/]
-* **Sitio Web:** [deevcode.cl](https://deevcode.cl)
 * **Email:** [jcc.zamoraa@gmail.com]
