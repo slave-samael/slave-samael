@@ -1,22 +1,46 @@
-# 👨‍💻 Acerca de mí
+<h1 align="center">¡Hola! Soy José Carlos 🚀</h1>
 
-¡Hola! Soy un desarrollador especializado en construir la columna vertebral de aplicaciones empresariales. Mi enfoque principal es crear arquitecturas limpias, lógicas y escalables. 
+<p align="center">
+  <b>Desarrollador de Software enfocado en la construcción de ecosistemas empresariales escalables.</b><br>
+  Mi objetivo es transformar procesos complejos en herramientas digitales eficientes, utilizando arquitecturas sólidas y despliegues modernos.
+</p>
 
-Me apasiona resolver problemas de negocio reales, ya sea estructurando una base de datos compleja para un ERP o implementando restricciones de comportamiento para agentes de Inteligencia Artificial.
+## 👨‍💻 Sobre mi enfoque
+No solo escribo código; diseño soluciones. Me especializo en el desarrollo de **ERPs y plataformas de gestión**, aplicando patrones de diseño que aseguran la mantenibilidad y el rendimiento:
+* **Customtkinter:** Desarrollo de interfaces de escritorio bajo el enfoque **MVC** (Modelo-Vista-Controlador).
+* **Django:** Construcción de aplicaciones web robustas siguiendo el patrón **MVT** (Modelo-Vista-Template).
+* **IA & Agentes:** Implementación de lógica avanzada con integración de IA, gestionando *skills* y restricciones mediante `AGENT.md`.
 
-### 🛠️ Mi Caja de Herramientas
+## 💻 Mi Stack Tecnológico
 
-* **Lenguajes:** Python, JavaScript, HTML.
-* **Frameworks:** Django (Mi herramienta principal para arquitecturas backend).
-* **Datos:** PostgreSQL, SQLite3, Oracle DB.
-* **Ecosistema:** VS Code, OpenCode.
-* **Innovación:** Integración de IA, configuración de *skills* y diseño de restricciones mediante `AGENT.md`.
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,django,postgres,sqlite,oracle,html,js,vscode,git,github" />
+  </a>
+</p>
 
-### 💻 Proyectos en curso
+> **Infraestructura & Herramientas:** Neon Tech (Cloud Postgres) | OpenCode | IA Prompt Engineering | Gestión de Agentes.
 
-- 🔭 Actualmente trabajando en la optimización de **Core-ERP**, un sistema de gestión empresarial (funcional en local) diseñado para manejar lógica de negocio crítica.
-- ⚙️ Desarrollando **ServiceDesk**, una solución de ticketing para centralizar requerimientos y mejorar tiempos de respuesta.
-- 🧠 Explorando las fronteras de la IA aplicable, definiendo contextos y comportamientos precisos para modelos de lenguaje en entornos de producción.
+## 🏗️ Proyectos en el Radar
+
+| Proyecto | Descripción y Arquitectura | Estado |
+| :--- | :--- | :--- |
+| **🚀 KronoSync-ERP** | **La evolución.** ERP web con estructura optimizada. Backend en Django (MVT) y base de datos gestionada en **Neon Tech**. | `Development / Soon to Prod` |
+| **📦 Core-ERP** | Sistema de gestión de recursos con lógica de negocio compleja, enfocado en la estabilidad de procesos locales. | `Funcional (Local)` |
+| **🎫 ServiceDesk** | Plataforma de ticketing para soporte técnico. Aplicación de flujos de trabajo y seguimiento de incidencias. | `Desarrollo Activo` |
+| **🤖 IA Agent Base** | Configuración y restricción de agentes inteligentes. Definición de comportamientos y seguridad de modelos. | `Implementado` |
+
+## 📈 Mi Actividad en GitHub
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=dark&hide_border=true" alt="Estadísticas de GitHub" />
+</p>
 
 ---
-📫 **¿Conectamos?** Encuéntrame en [LinkedIn](Tu_Enlace) o escríbeme a [Tu_Correo].
+
+### 📫 Conectemos
+¿Tienes un reto técnico o un proyecto en mente? ¡Hablemos!
+
+* **LinkedIn:** [https://www.linkedin.com/in/jose-carlos-cornejo-zamora/]
+* **Sitio Web:** [deevcode.cl](https://deevcode.cl)
+* **Email:** [jcc.zamoraa@gmail.com]
