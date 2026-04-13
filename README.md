@@ -1,27 +1,22 @@
-<h1 align="center">¡Hola! Bienvenido a mi GitHub 🚀</h1>
+# 👨‍💻 Acerca de mí
 
-<p align="center">
-  <b>Transformando lógica compleja en soluciones eficientes</b><br>
-  Desarrollador backend enfocado en Python y Django, con experiencia en bases de datos relacionales y configuración de agentes de Inteligencia Artificial.
-</p>
+¡Hola! Soy un desarrollador especializado en construir la columna vertebral de aplicaciones empresariales. Mi enfoque principal es crear arquitecturas limpias, lógicas y escalables. 
 
-### 💻 Tech Stack
+Me apasiona resolver problemas de negocio reales, ya sea estructurando una base de datos compleja para un ERP o implementando restricciones de comportamiento para agentes de Inteligencia Artificial.
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,django,postgres,sqlite,html,js,vscode" />
-  </a>
-</p>
+### 🛠️ Mi Caja de Herramientas
 
-> **Otras herramientas:** Oracle DB | OpenCode | Integración y restricción de modelos de IA (AGENT.md)
+* **Lenguajes:** Python, JavaScript, HTML.
+* **Frameworks:** Django (Mi herramienta principal para arquitecturas backend).
+* **Datos:** PostgreSQL, SQLite3, Oracle DB.
+* **Ecosistema:** VS Code, OpenCode.
+* **Innovación:** Integración de IA, configuración de *skills* y diseño de restricciones mediante `AGENT.md`.
 
-### 🏗️ Lo que estoy construyendo
+### 💻 Proyectos en curso
 
-| Proyecto | Descripción | Estado |
-| :--- | :--- | :--- |
-| **📦 Core-ERP** | Sistema de gestión de recursos diseñado para escalabilidad y control de procesos. | `Funcional (Local)` |
-| **🎫 ServiceDesk** | Plataforma de soporte técnico para la gestión y seguimiento del ciclo de vida de los tickets. | `En Desarrollo` |
-| **🤖 Agentes IA** | Implementación de flujos de IA con configuración de skills y restricciones estructuradas. | `Activo` |
+- 🔭 Actualmente trabajando en la optimización de **Core-ERP**, un sistema de gestión empresarial (funcional en local) diseñado para manejar lógica de negocio crítica.
+- ⚙️ Desarrollando **ServiceDesk**, una solución de ticketing para centralizar requerimientos y mejorar tiempos de respuesta.
+- 🧠 Explorando las fronteras de la IA aplicable, definiendo contextos y comportamientos precisos para modelos de lenguaje en entornos de producción.
 
-### ⚡ Estadísticas
-![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=radical)
+---
+📫 **¿Conectamos?** Encuéntrame en [LinkedIn](Tu_Enlace) o escríbeme a [Tu_Correo].
