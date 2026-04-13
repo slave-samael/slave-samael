@@ -27,7 +27,7 @@ No solo escribo código; diseño soluciones. Me especializo en el desarrollo de 
 | :--- | :--- | :--- |
 | **🚀 KronoSync-ERP** | **La evolución.** ERP web con estructura optimizada. Backend en Django (MVT) y base de datos gestionada en **Neon Tech**. | `Development / Soon to Prod` |
 | **📦 Core-ERP** | Sistema de gestión de recursos con lógica de negocio compleja (MVC), enfocado en la estabilidad de procesos locales. | `Funcional (Local)` |
-| **🎫 ServiceDesk** | Plataforma de ticketing para soporte técnico. Aplicación de flujos de trabajo y seguimiento de incidencias. | `Desarrollo Activo` |
+| **🎫 ServiceDesk** | Plataforma de ticketing para soporte técnico. Aplicación de flujos de trabajo y seguimiento de incidencias (MVT). | `Desarrollo Activo` |
 | **🤖 IA Agent Base** | Configuración y restricción de agentes inteligentes. Definición de comportamientos y seguridad de modelos. | `Implementado` |
 
 ## 📈 Mi Actividad en GitHub
